@@ -1,3 +1,7 @@
 package edition
 
-import _ "github.com/nathanielc/gover"
+import "github.com/nathanielc/gover"
+
+func Do() {
+	gover.Do()
+}

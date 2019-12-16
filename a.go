@@ -2,6 +2,6 @@ package gover
 
 import "fmt"
 
-func do() {
-	fmt.Println("gover")
+func Do() {
+	fmt.Println("gover v0")
 }
