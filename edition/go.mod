@@ -1,4 +1,4 @@
-module github.com/nathanielc/gover/edition
+module github.com/nathanielc/gover/edition/v2
 
 go 1.13
 
